@@ -1,0 +1,39 @@
+H1 {
+ Padding: 1.5em .5em 0em;
+ Font-size: 5em;
+ Text-align: center;
+}
+
+P {
+ Padding: 1em 2.5em 0em;
+ Text-align: center;
+}
+
+.col-sm{
+   Padding: 0em;
+  }
+
+Img {
+ width: 40%;
+ Padding: 0em 0em 0em;
+}
+
+.img1 {
+ width:40%;
+  Padding: 0em 0em 0em;
+}
+
+ .img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  Font-family: arial black;
+  Background-color: white;
+}

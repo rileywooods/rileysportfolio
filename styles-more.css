@@ -1,0 +1,72 @@
+html {
+background-color : white;
+}
+
+table {
+
+  border-collapse: collapse;
+  width: 450px;
+  margin: 60px 100px;
+}
+
+th {
+  border: 3px solid black;
+  text-align: center;
+  padding: 8px;
+
+  background-color: Black;
+  Color: white;
+}
+
+td {
+  border: 3px solid black;
+  text-align: left;
+  padding: 8px;
+  color: black;
+}
+
+tr:nth-child(even) {
+  background-color: WhiteSmoke;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  Float: left;
+}
+
+H1{
+Padding: 2em 5em 0em;
+}
+
+H2{
+Padding: 0em 3em 0em;
+}
+
+H3{
+Padding: 4.5em 3.5em 0em;
+}
+ul{
+Padding: 0em 7.5em 0em;
+}
+
+ol{
+Padding: 0em 7.5em 0em;
+}
+
+A{
+ color: black;
+}
+
+Img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

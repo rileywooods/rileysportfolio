@@ -1,0 +1,52 @@
+H1 {
+ Padding: 1em 1em 0em;
+ Font-size: 5em;
+ Text-align: center;
+}
+
+P {
+ Padding: 0em 0em 0em;
+ Text-align: center;
+}
+
+.col-sm{
+   Padding: 0em;
+  }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 20px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical;
+}
+
+    
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: grey;
+}
+
+.container {
+  border-radius: 20px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+Img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

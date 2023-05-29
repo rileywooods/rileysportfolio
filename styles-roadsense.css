@@ -1,0 +1,16 @@
+H1 {
+ Padding: 0em 0em 0em;
+ Font-size: 5em;
+}
+
+P {
+ Padding: 1em .5em 0em;
+}
+
+.col-sm{
+   Padding: 0em;
+  }
+
+Img {
+  width: 100%;
+}
